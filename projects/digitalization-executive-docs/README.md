@@ -22,8 +22,8 @@
 | Тип артефакта | Файл / Папка |
 |---------------|---------------|
 | Vision & Scope | `01_Vision_&_Scope.md` |
-| AS-IS BPMN | `02_AS_IS/02_AS_IS_BPMN.bpmn` |
-| TO-BE BPMN | `03_TO_BE/03_TO_BE_BPMN_HARD.bpmn`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.bpmn` |
+| AS-IS BPMN | `02_AS_IS/02_AS_IS_BPMN.bpmn`, `02_AS_IS/02_AS_IS_BPMN.svg` |
+| TO-BE BPMN | `03_TO_BE/03_TO_BE_BPMN_HARD.bpmn`, `03_TO_BE/03_TO_BE_BPMN_HARD.svg`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.bpmn`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.svg` |
 
 
 
