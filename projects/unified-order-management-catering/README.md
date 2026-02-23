@@ -32,7 +32,7 @@
 |---------------|---------------|
 | Vision & Scope | `01_Vision&Scope/01.1_Vision&Scope.md`, `01_Vision&Scope/01.2_RACI.xlsx`, `01_Vision&Scope/01.3_Change_Control.md` |
 | AS-IS BPMN | `02_AS-IS/02.1_AS-IS.bpmn`, `02_AS-IS/02.1_AS-IS.png` |
-| TO-BE BPMN | `03_TO-BE/03.3_TO-BE.bpmn`, `03_TO-BE/03.1_TO-BE.png` |
+| TO-BE BPMN | `03_TO-BE/03.1_TO-BE.bpmn`, `03_TO-BE/03.1_TO-BE.png` |
 | Use Case Diagram | `04_Use_Cases/04.1_Use_Case_Diagram.drawio`, `04_Use_Cases/04.1_Use_Case_Diagram.png` |
 | Use Cases | `04_Use_Cases/04.2_Use Cases.docx` |
 | User Stories | `05_User_Stories.md` |
