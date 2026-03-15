@@ -54,6 +54,6 @@
 - [ERD](09_ERD/09.1_ERD.png)
 - [Backlog Jira](10_Jira_Confluence/10.1_Backlog_jira.PNG)
 - [Board Jira](10_Jira_Confluence/10.2_Board_jira.PNG)
-- [Epic 1](10_Jira_Confluence/10.3_Epic1_jira.PNG)
-- [Epic 2](10_Jira_Confluence/10.4_Epic2_jira.PNG)
+- [Epic 1 Jira](10_Jira_Confluence/10.3_Epic1_jira.PNG)
+- [Epic 2 Jira](10_Jira_Confluence/10.4_Epic2_jira.PNG)
 - [User Stories Confluence](10_Jira_Confluence/10.5_User_stories_confluence.PNG)
