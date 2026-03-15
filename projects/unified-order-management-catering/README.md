@@ -40,6 +40,7 @@
 | Non-Functional Requirements | `07_NFR.md` |
 | Backlog / RICE / RTM | `08_Backlog_RICE_RTM.xlsx` |
 | ERD | `09_ERD/09.1_ERD.png`, `09_ERD/09.1_ERD.drawio` |
+|Jira + Confluence|`10_Jira_Confluence/10.1_Backlog_jira.png`, `10_Jira_Confluence/10.2_Board_jira.png`, `10_Jira_Confluence/10.3_Epic1_jira.png`, `10_Jira_Confluence/10.4_Epic2_jira.png`, `10_Jira_Confluence/10.5_User_stories_confluence.png`|
 
 ## Ссылки на артефакты
 - [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md)  
@@ -51,3 +52,8 @@
 - [FR](06_FR.md) | [NFR](07_NFR.md)  
 - [Backlog](08_Backlog_RICE_RTM.xlsx)  
 - [ERD](09_ERD/09.1_ERD.png)
+- [Backlog Jira](10_Jira_Confluence/10.1_Backlog_jira.png)
+- [Board Jira](10_Jira_Confluence/10.2_Board_jira.png)
+- [Epic 1](10_Jira_Confluence/10.3_Epic1_jira.png)
+- [Epic 2](10_Jira_Confluence/10.4_Epic2_jira.png)
+- [User Stories Confluence](10_Jira_Confluence/10.5_User_stories_confluence.png)
