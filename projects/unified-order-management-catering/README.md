@@ -42,6 +42,7 @@
 | Backlog / RICE / RTM | `08_Backlog_RICE_RTM.xlsx` |
 | ERD | `09_ERD/09.1_ERD.png`, `09_ERD/09.1_ERD.drawio` |
 |Jira + Confluence|`10_Jira_Confluence/10.1_Backlog_jira.png`, `10_Jira_Confluence/10.2_Board_jira.png`, `10_Jira_Confluence/10.3_Epic1_jira.png`, `10_Jira_Confluence/10.4_Epic2_jira.png`, `10_Jira_Confluence/10.5_User_stories_confluence.png`|
+| UML Activity Diagram | `12_UML_activity_diagram/12.1_UML_activity_diagram.drawio`, `12_UML_activity_diagram/12.1_UML_activity_diagram.png` |
 
 ## Ссылки на артефакты
 - [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md)
@@ -59,3 +60,4 @@
 - [Epic 1 Jira](10_Jira_Confluence/10.3_Epic1_jira.PNG)
 - [Epic 2 Jira](10_Jira_Confluence/10.4_Epic2_jira.PNG)
 - [User Stories Confluence](10_Jira_Confluence/10.5_User_stories_confluence.PNG)
+- [UML Activity Diagram](12_UML_activity_diagram/12.1_UML_activity_diagram.png)  
