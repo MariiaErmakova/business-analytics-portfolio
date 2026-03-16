@@ -19,19 +19,8 @@
 
 ### Основные артефакты проекта
 
-| Тип артефакта | Файл / Папка |
-|---------------|---------------|
-| Vision & Scope | `01_Vision_&_Scope.md` |
-| AS-IS BPMN | `02_AS_IS/02_AS_IS_BPMN.bpmn`, `02_AS_IS/02_AS_IS_BPMN.svg` |
-| TO-BE BPMN | `03_TO_BE/03_TO_BE_BPMN_HARD.bpmn`, `03_TO_BE/03_TO_BE_BPMN_HARD.svg`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.bpmn`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.svg` |
-
-
-
-### Ссылки на артефакты
-- [Vision & Scope](01_Vision_&_Scope.md)  
-- [AS-IS BPMN.bpmn](02_AS_IS/02.1_AS_IS_BPMN.bpmn)  
-- [AS-IS BPMN.svg](02_AS_IS/02.1_AS_IS_BPMN.svg)  
-- [TO-BE BPMN LIGHT.bpmn](03_TO_BE/03.2_TO_BE_BPMN_LIGHT.bpmn)
-- [TO-BE BPMN LIGHT.svg](03_TO_BE/03.2_TO_BE_BPMN_LIGHT.svg)
-- [TO-BE BPMN HARD.bpmn](03_TO_BE/03.1_TO_BE_BPMN_HARD.bpmn)  
-- [TO-BE BPMN HARD.svg](03_TO_BE/03.1_TO_BE_BPMN_HARD.svg)  
+| Тип артефакта | Файл / Папка | Ссылка |
+|---------------|---------------|---|
+| Vision & Scope | `01_Vision_&_Scope.md` | [Vision & Scope](01_Vision_&_Scope.md) |
+| AS-IS BPMN | `02_AS_IS/02_AS_IS_BPMN.bpmn`, `02_AS_IS/02_AS_IS_BPMN.svg` | [AS-IS BPMN.bpmn](02_AS_IS/02.1_AS_IS_BPMN.bpmn); [AS-IS BPMN.svg](02_AS_IS/02.1_AS_IS_BPMN.svg) |
+| TO-BE BPMN | `03_TO_BE/03_TO_BE_BPMN_HARD.bpmn`, `03_TO_BE/03_TO_BE_BPMN_HARD.svg`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.bpmn`, `03_TO_BE/03_TO_BE_BPMN_LIGHT.svg` | [TO-BE BPMN LIGHT.bpmn](03_TO_BE/03.2_TO_BE_BPMN_LIGHT.bpmn); [TO-BE BPMN LIGHT.svg](03_TO_BE/03.2_TO_BE_BPMN_LIGHT.svg); [TO-BE BPMN HARD.bpmn](03_TO_BE/03.1_TO_BE_BPMN_HARD.bpmn); [TO-BE BPMN HARD.svg](03_TO_BE/03.1_TO_BE_BPMN_HARD.svg) |

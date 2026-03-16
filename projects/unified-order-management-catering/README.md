@@ -28,36 +28,18 @@
 
 ## Основные артефакты проекта
 
-| Тип артефакта | Файл / Папка |
-|---------------|---------------|
-| Vision & Scope | `01_Vision&Scope/01.1_Vision&Scope.md`, `01_Vision&Scope/01.2_RACI.xlsx`, `01_Vision&Scope/01.3_Change_Control.md` |
-| BRD | `11_BRD/11.1_BRD.md` |
-| AS-IS BPMN | `02_AS-IS/02.1_AS-IS.bpmn`, `02_AS-IS/02.1_AS-IS.png` |
-| TO-BE BPMN | `03_TO-BE/03.1_TO-BE.bpmn`, `03_TO-BE/03.1_TO-BE.png` |
-| Use Case Diagram | `04_Use_Cases/04.1_Use_Case_Diagram.drawio`, `04_Use_Cases/04.1_Use_Case_Diagram.png` |
-| Use Cases | `04_Use_Cases/04.2_Use Cases.md` |
-| User Stories | `05_User_Stories.md` |
-| Functional Requirements | `06_FR.md` |
-| Non-Functional Requirements | `07_NFR.md` |
-| Backlog / RICE / RTM | `08_Backlog_RICE_RTM.xlsx` |
-| ERD | `09_ERD/09.1_ERD.png`, `09_ERD/09.1_ERD.drawio` |
-|Jira + Confluence|`10_Jira_Confluence/10.1_Backlog_jira.png`, `10_Jira_Confluence/10.2_Board_jira.png`, `10_Jira_Confluence/10.3_Epic1_jira.png`, `10_Jira_Confluence/10.4_Epic2_jira.png`, `10_Jira_Confluence/10.5_User_stories_confluence.png`|
-| UML Activity Diagram | `12_UML_activity_diagram/12.1_UML_activity_diagram.drawio`, `12_UML_activity_diagram/12.1_UML_activity_diagram.png` |
-
-## Ссылки на артефакты
-- [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md)
-- [BRD](11_BRD/11.1_BRD.md)  
-- [AS-IS BPMN.png](02_AS-IS/02.1_AS-IS.png) | [AS-IS BPMN.bpmn](02_AS-IS/02.1_AS-IS.bpmn)  
-- [TO-BE BPMN.png](03_TO-BE/03.1_TO-BE.png) | [TO-BE BPMN.bpmn](03_TO-BE/03.1_TO-BE.bpmn)  
-- [Use Case Diagram](04_Use_Cases/04.1_Use_Case_Diagram.png)  
-- [Use Cases](04_Use_Cases/04.2_Use_Cases.md)  
-- [User Stories](05_User_Stories.md)  
-- [FR](06_FR.md) | [NFR](07_NFR.md)  
-- [Backlog](08_Backlog_RICE_RTM.xlsx)  
-- [ERD](09_ERD/09.1_ERD.png)
-- [Backlog Jira](10_Jira_Confluence/10.1_Backlog_jira.PNG)
-- [Board Jira](10_Jira_Confluence/10.2_Board_jira.PNG)
-- [Epic 1 Jira](10_Jira_Confluence/10.3_Epic1_jira.PNG)
-- [Epic 2 Jira](10_Jira_Confluence/10.4_Epic2_jira.PNG)
-- [User Stories Confluence](10_Jira_Confluence/10.5_User_stories_confluence.PNG)
-- [UML Activity Diagram](12_UML_activity_diagram/12.1_UML_activity_diagram.png)  
+| Тип артефакта | Файл / Папка | Ссылка |
+|---------------|---------------|--|
+| Vision & Scope | `01_Vision&Scope/01.1_Vision&Scope.md`, `01_Vision&Scope/01.2_RACI.xlsx`, `01_Vision&Scope/01.3_Change_Control.md` | [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md) |
+| BRD | `11_BRD/11.1_BRD.md` | [BRD](11_BRD/11.1_BRD.md)|
+| AS-IS BPMN | `02_AS-IS/02.1_AS-IS.bpmn`, `02_AS-IS/02.1_AS-IS.png` | [AS-IS BPMN.png](02_AS-IS/02.1_AS-IS.png); [AS-IS BPMN.bpmn](02_AS-IS/02.1_AS-IS.bpmn)|
+| TO-BE BPMN | `03_TO-BE/03.1_TO-BE.bpmn`, `03_TO-BE/03.1_TO-BE.png` | [TO-BE BPMN.png](03_TO-BE/03.1_TO-BE.png); [TO-BE BPMN.bpmn](03_TO-BE/03.1_TO-BE.bpmn) |
+| Use Case Diagram | `04_Use_Cases/04.1_Use_Case_Diagram.drawio`, `04_Use_Cases/04.1_Use_Case_Diagram.png` | [Use Case Diagram](04_Use_Cases/04.1_Use_Case_Diagram.png) |
+| Use Cases | `04_Use_Cases/04.2_Use Cases.md` |[Use Cases](04_Use_Cases/04.2_Use_Cases.md)|
+| User Stories | `05_User_Stories.md` | [User Stories](05_User_Stories.md) |
+| Functional Requirements | `06_FR.md` |[FR](06_FR.md) | 
+| Non-Functional Requirements | `07_NFR.md` | [NFR](07_NFR.md)|
+| Backlog / RICE / RTM | `08_Backlog_RICE_RTM.xlsx` | [Backlog](08_Backlog_RICE_RTM.xlsx) |
+| ERD | `09_ERD/09.1_ERD.png`, `09_ERD/09.1_ERD.drawio` | [ERD](09_ERD/09.1_ERD.png)|
+|Jira + Confluence|`10_Jira_Confluence/10.1_Backlog_jira.png`, `10_Jira_Confluence/10.2_Board_jira.png`, `10_Jira_Confluence/10.3_Epic1_jira.png`, `10_Jira_Confluence/10.4_Epic2_jira.png`, `10_Jira_Confluence/10.5_User_stories_confluence.png`| [Backlog Jira](10_Jira_Confluence/10.1_Backlog_jira.PNG); [Board Jira](10_Jira_Confluence/10.2_Board_jira.PNG); [Epic 1 Jira](10_Jira_Confluence/10.3_Epic1_jira.PNG); [Epic 2 Jira](10_Jira_Confluence/10.4_Epic2_jira.PNG); [User Stories Confluence](10_Jira_Confluence/10.5_User_stories_confluence.PNG)|
+| UML Activity Diagram | `12_UML_activity_diagram/12.1_UML_activity_diagram.drawio`, `12_UML_activity_diagram/12.1_UML_activity_diagram.png` | [UML Activity Diagram](12_UML_activity_diagram/12.1_UML_activity_diagram.png)  |
