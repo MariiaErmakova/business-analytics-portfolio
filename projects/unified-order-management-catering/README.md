@@ -31,6 +31,7 @@
 | Тип артефакта | Файл / Папка |
 |---------------|---------------|
 | Vision & Scope | `01_Vision&Scope/01.1_Vision&Scope.md`, `01_Vision&Scope/01.2_RACI.xlsx`, `01_Vision&Scope/01.3_Change_Control.md` |
+| BRD | `11_BRD/11.1_BRD.md` |
 | AS-IS BPMN | `02_AS-IS/02.1_AS-IS.bpmn`, `02_AS-IS/02.1_AS-IS.png` |
 | TO-BE BPMN | `03_TO-BE/03.1_TO-BE.bpmn`, `03_TO-BE/03.1_TO-BE.png` |
 | Use Case Diagram | `04_Use_Cases/04.1_Use_Case_Diagram.drawio`, `04_Use_Cases/04.1_Use_Case_Diagram.png` |
@@ -43,7 +44,8 @@
 |Jira + Confluence|`10_Jira_Confluence/10.1_Backlog_jira.png`, `10_Jira_Confluence/10.2_Board_jira.png`, `10_Jira_Confluence/10.3_Epic1_jira.png`, `10_Jira_Confluence/10.4_Epic2_jira.png`, `10_Jira_Confluence/10.5_User_stories_confluence.png`|
 
 ## Ссылки на артефакты
-- [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md)  
+- [Vision & Scope](01_Vision&Scope/01.1_Vision&Scope.md)
+- [BRD](11_BRD/11.1_BRD.md)  
 - [AS-IS BPMN.png](02_AS-IS/02.1_AS-IS.png) | [AS-IS BPMN.bpmn](02_AS-IS/02.1_AS-IS.bpmn)  
 - [TO-BE BPMN.png](03_TO-BE/03.1_TO-BE.png) | [TO-BE BPMN.bpmn](03_TO-BE/03.1_TO-BE.bpmn)  
 - [Use Case Diagram](04_Use_Cases/04.1_Use_Case_Diagram.png)  
